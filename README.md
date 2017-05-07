@@ -1,0 +1,1 @@
+A simple School Schedule web appliction based on session without database connection.
